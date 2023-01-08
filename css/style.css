@@ -1,0 +1,161 @@
+.land_page_nm{
+    
+    width: 100%;
+}
+h1{
+    font-family: 'Montserrat-black';
+    size: 3.5rem;
+    line-height: 1.5;
+   
+
+}
+body{
+    font-family: "Montserrat";
+    margin-bottom: 0;
+}
+
+h3{
+    font-family: 'Montserrat-Bold';
+    size: 1.5rem;
+    line-height: 1.5;
+}
+
+
+
+
+
+
+
+
+
+#title{
+    background-color: rgb(2, 1, 2);
+    color: whitesmoke;
+}
+
+
+
+
+
+
+/* navbar brand */
+.navbar-brand{
+
+    font-family: "Ubuntu";
+    font-size: 0 0 4.5rem;
+    font-weight: bold;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.nav-item{
+    padding: 0 15px ;
+   
+}
+.dropdown-toggle{
+    background-color: rgb(38, 37, 37);
+  
+  text-align: center;
+  color: whitesmoke;
+
+    color: whitesmoke;
+
+}
+.dropdown-menu{
+    background-color: rgb(38, 37, 37);
+    color: whitesmoke;
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light';
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light';
+}
+
+
+    
+.container{
+    color: rgb(195, 147, 137);
+}
+.container-fluid{
+    padding: 3% 15% ;
+    
+}
+/* download button */
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+#features{
+    background-color: #c0c0c0;
+   
+    padding: 7% 15%;
+ }
+ .icon{
+    color: #ef8172;
+    
+    margin:0 0 10px 0;
+ }
+ .icon:hover{
+    color: rgb(38, 37, 37);
+ }
+ .feature-box{
+    text-align: center;
+    padding: 5%;
+
+ }
+
+
+
+
+#testimonials{
+    background-color: rgb(38, 37, 37);
+    
+    text-align: center;
+    color: whitesmoke;
+  
+  }
+  .carousel-item{
+      padding: 7% 15%;
+  
+  }
+  .dog-img{
+      width: 15%;
+      border-radius: 100%;
+      margin: 20px;
+  }
+  #press{
+      text-align: center;
+      background-color: #ff4c68;
+     padding-bottom: 5%;
+  }
+  .press-logo{
+      width: 13%;
+      margin: 20px 20px 15px;
+  
+  }
+
+
+  .work-img{
+    width: 15%;
+    
+    margin: 20px;}
+
+
+#cta{
+   
+    padding: 10%;
+    margin: 20px 0;
+
+}
+.op{
+    color: #ef8172;
+    margin:0 0 10px 0;
+
+}
+.op:hover{
+    color: #c0c0c0;
+}
+span{
+    color:#c0c0c0;
+}
